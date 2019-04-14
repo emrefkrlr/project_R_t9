@@ -1,0 +1,12 @@
+name: model_test
+title: model_test
+username:
+account: emrefikirlier
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 794064
+bundleId: 1944167
+url: https://emrefikirlier.shinyapps.io/model_test/
+when: 1552734339.56922
+asMultiple: FALSE
+asStatic: FALSE
